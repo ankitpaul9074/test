@@ -1,0 +1,626 @@
+{
+  "pubg":{
+        "weapon":{
+		        "sniper_rifles":[
+				                   {
+                                     "ID":"1",
+									 "NAME":"VSS",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"31",
+									          "RANGE":"35",
+									          "STABILITY":"25",
+									          "FIRING RATE":"21"
+									        }
+									 
+									  },
+							   {
+								     "ID":"2",
+									 "NAME":"AWM",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"100",
+									          "RANGE":"100",
+									          "STABILITY":"35",
+									          "FIRING RATE":"7"
+											}
+									   },
+									 
+                               {
+								     "ID":"3",
+									 "NAME":"KAR98K",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"63",
+									          "RANGE":"80",
+									          "STABILITY":"25",
+									          "FIRING RATE":"4"
+										    }
+									 },
+									 
+                               {
+								     "ID":"4",
+									 "NAME":"M24",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"75",
+									          "RANGE":"96",
+									          "STABILITY":"33",
+									          "FIRING RATE":"4"
+											  }
+									 },
+									 
+                              {
+								     "ID":"5",
+									 "NAME":"MK14 EBR",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"54",
+									          "RANGE":"80",
+									          "STABILITY":"56",
+									          "FIRING RATE":"26"
+											  }
+									 },
+									 
+							   {
+								     "ID":"6",
+									 "NAME":"MINI 14",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"40",
+									          "RANGE":"63",
+									          "STABILITY":"56",
+									          "FIRING RATE":"46"
+											  }
+									 },
+									 
+							  {
+								     "ID":"7",
+									 "NAME":"SKS",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"49",
+									          "RANGE":"63",
+									          "STABILITY":"46",
+									          "FIRING RATE":"41"
+											  }
+									 }
+		
+		
+		                ],
+				"assault_rifles":[
+				                {
+                                     "ID":"1",
+									 "NAME":"SCAR-L",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"36",
+									          "RANGE":"54",
+									          "STABILITY":"25",
+									          "FIRING RATE":"70"
+									         }
+									 
+									  },
+									  
+								{
+                                     "ID":"2",
+									 "NAME":"AKM",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"40",
+									          "RANGE":"60",
+									          "STABILITY":"33",
+									          "FIRING RATE":"60"
+									         }
+									 
+									  },
+
+								{
+                                     "ID":"3",
+									 "NAME":"GROZA",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"43",
+									          "RANGE":"58",
+									          "STABILITY":"33",
+									          "FIRING RATE":"66"
+									 }
+									 
+									  },
+
+								{
+                                     "ID":"4",
+									 "NAME":"M16A4",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"37",
+									          "RANGE":"58",
+									          "STABILITY":"31",
+									          "FIRING RATE":"82"
+									 }
+									 
+									  },
+
+								{
+                                     "ID":"5",
+									 "NAME":"M416",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"37",
+									          "RANGE":"58",
+									          "STABILITY":"4",
+									          "FIRING RATE":"76"
+									 }
+									 
+									  }	  
+								
+								
+								
+								
+								
+								],		
+                "shotguns":[
+				          {
+                                     "ID":"1",
+									 "NAME":"S12K",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"81",
+									          "RANGE":"9",
+									          "STABILITY":"85",
+									          "FIRING RATE":"14"
+									 }
+									 
+									  },
+									  
+							{
+                                     "ID":"2",
+									 "NAME":"S1897",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"92",
+									          "RANGE":"7",
+									          "STABILITY":"77",
+									          "FIRING RATE":"8"
+									 }
+									 
+									  },		  
+				
+				            {
+                                     "ID":"3",
+									 "NAME":"S686",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"100",
+									          "RANGE":"13",
+									          "STABILITY":"77",
+									          "FIRING RATE":"8"
+									 }
+									 
+									  }
+				
+				
+				],
+				
+				"pistols":[
+				           {
+                                     "ID":"1",
+									 "NAME":"P18C",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"17",
+									          "RANGE":"11",
+									          "STABILITY":"24",
+									          "FIRING RATE":"68"
+									 }
+									 
+									  },
+									  
+						{
+                                     "ID":"2",
+									 "NAME":"P1911",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"31",
+									          "RANGE":"15",
+									          "STABILITY":"25",
+									          "FIRING RATE":"28"
+									 }
+									 
+									  },
+
+                        {
+                                     "ID":"3",
+									 "NAME":"R1895",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"41",
+									          "RANGE":"31",
+									          "STABILITY":"10",
+									          "FIRING RATE":"28"
+									 }
+									 
+									  },
+
+                      {
+                                     "ID":"4",
+									 "NAME":"P92",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "POWER":"26",
+									          "RANGE":"14",
+									          "STABILITY":"24",
+									          "FIRING RATE":"58"
+									 }
+									 
+									  }									  
+				
+				
+				
+				
+				
+				
+				
+				
+				]
+
+                 },
+            
+        "consumables":[
+		              {"ID":"1",
+					  "NAME":"Energy Drink",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"4 SECONDS"
+							  }
+						 },
+					  
+                      {"ID":"2",
+					  "NAME":"Painkiller",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"6 SECONDS"
+							  }
+                         },							  
+		
+		              {"ID":"3",
+					  "NAME":"Adrenaline Syringe",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"8 SECONDS"
+							  }
+                         },
+		
+		              {"ID":"4",
+					  "NAME":"Bandage",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"4 SECONDS"
+							  }
+                              },
+							  
+					  {"ID":"5",
+					  "NAME":"First Aid Kit",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"6 SECONDS"
+							  }
+                              },
+
+                      {"ID":"6",
+					  "NAME":"Med Kit",
+					  "I MG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"8 SECONDS"
+							  }
+                              },
+
+                      {"ID":"7",
+					  "NAME":"Gas Can",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "CAST_TIME":"3 SECONDS"
+							  }
+                              }						  
+                       ],
+					   
+		"maps":[
+		             {"ID":"1",
+					  "NAME":"ERANGEL",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+			   
+		             {"ID":"2",
+					  "NAME":"Miramar",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+		          
+		              {"ID":"3",
+					  "NAME":"Sanhok",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+		             
+					 {"ID":"4",
+					  "NAME":"Vikendi",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              }
+		
+		                    ],			   
+		       
+        "throwables":[
+		            {"ID":"1",
+					  "NAME":"Frag Grenade",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "PICKUP DELAY":"150",
+							  "READY DELAY":"1000"
+							  }
+                              },
+		
+                     {"ID":"2",
+					  "NAME":"Smoke Grenade",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "PICKUP DELAY":"150",
+							  "READY DELAY":"1000"
+							  }
+                              },
+		
+		
+		              {"ID":"3",
+					  "NAME":"Stun Grenade",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "PICKUP DELAY":"150",
+							  "READY DELAY":"1000"
+							  }
+                              },
+		
+		                {"ID":"4",
+					  "NAME":"Molotov Cocktail",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":"",
+					  "DETAIL":{
+					          "PICKUP DELAY":"150",
+							  "READY DELAY":"1000"
+							  }
+                              }
+		
+		
+		
+		
+		            ],
+					
+		"attachments":[
+		              {"ID":"1",
+					  "NAME":"Red Dot Sight",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+		
+		               {"ID":"2",
+					  "NAME":"Holographic Sight",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+		
+		               {"ID":"3",
+					  "NAME":"2x Aimpoint Scope",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+		
+		               {"ID":"4",
+					  "NAME":"4x ACOG Scope",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+		
+		               {"ID":"5",
+					  "NAME":"8x CQBSS Scope",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              },
+							  
+						{"ID":"6",
+					  "NAME":"15x PM II Scope",
+					  "IMG_URL":"",
+					  "VIDEO_URL":"",
+					  "DESCRIPTION":""
+                              }	  
+							  
+		            ],			
+					
+		"vehicles":[
+		             {               
+									"ID":"1",
+									 "NAME":"Motorcycle with sidecar",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"136",
+									          "Human capacity":"3",
+									          "Health":"1,048"
+									          
+									 }
+									 
+									  },
+		
+		
+		             {               
+									"ID":"2",
+									 "NAME":"Motorcycle without sidecar",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"150",
+									          "Human capacity":"2",
+									          "Health":"1,048"
+									          
+									 }
+									 
+									  },
+		
+		
+		             {               
+									"ID":"3",
+									 "NAME":"Dacia 1300",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"117",
+									          "Human capacity":"4",
+									          "Health":"1,869"
+									          
+									 }
+									 
+									  },
+									  
+					 {               
+									"ID":"4",
+									 "NAME":"UAZ (Open Top)",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"94",
+									          "Human capacity":"5",
+									          "Health":"2,060"
+									          
+									 }
+									 
+									  },
+
+                     {               
+									"ID":"5",
+									 "NAME":"UAZ (Closed Top Cloth)",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"99",
+									          "Human capacity":"5",
+									          "Health":"2,060"
+									          
+									 }
+									 
+									  },
+
+                     {               
+									"ID":"6",
+									 "NAME":"UAZ (Closed Top Steel)",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"99",
+									          "Human capacity":"5",
+									          "Health":"2,060"
+									          
+									 }
+									 
+									  },
+
+                     {               
+									"ID":"7",
+									 "NAME":"Buggy",
+									 "IMG_URL":"",
+									 "VIDEO_URL":"",
+									 "DESCRIPTION":"",
+									 "DETAIL":{
+									          "Max Speed":"93",
+									          "Human capacity":"6",
+									          "Health":"1,606"
+									          
+									 }
+									 
+									  }									  
+		
+		
+		
+		
+		
+		
+		
+		
+		]			
+  
+        }
+  
+
+}
